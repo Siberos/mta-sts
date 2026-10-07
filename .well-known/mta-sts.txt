@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
-mx: siberos-fr.mail.protection.outlook.com
-mx: siberos-fr.o-v1.mx.microsoft
+mx: siberos-fr.h-v1.mx.microsoft
 max_age: 86400
